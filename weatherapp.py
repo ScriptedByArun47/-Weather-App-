@@ -8,7 +8,7 @@ from kivy.metrics import dp
 import requests
 import logging
 
-API_KEY = "9004b2a6daa4818401f901ee65eae86a"  # Replace with your API key
+API_KEY = "# Replace with your API key"  # Replace with your API key
 
 # Setup logging
 logging.basicConfig(level=logging.DEBUG)
